@@ -1,0 +1,9 @@
+{
+  "visualEdition": "V2.1 · 方案 C",
+  "sourceBranch": "codex/mobile-immersive-c-20261120",
+  "sourceCommit": "d1a208b5a362d2dd9b83d00801492c702dcbb6d0",
+  "basedOn": "f394fe9ab49347b67eb32e40976ce53653adda00",
+  "rollbackPreview": "https://chihoozeng.github.io/pinball-neon-v21-preview/demo/v1/",
+  "entry": "demo/v1/",
+  "screens": "screens/"
+}
